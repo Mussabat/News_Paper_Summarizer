@@ -1,6 +1,6 @@
 # News_Paper_Summarizer
 <br>
-<b>Screenshoots : <b>
+<h2>Screenshoots : </h2>
 <br>
 ![Screenshot (1139)](https://user-images.githubusercontent.com/84468462/212394459-9da21de0-78d1-4944-ba4c-1945374dd9b1.png)
 <br>
