@@ -11,9 +11,7 @@
 
 <hr>
 ## 👥  Contributors
-[Pinki Akter]
-|(https://github.com/pinkfloyed)|
-|---|
-|<img src = "https://avatars.githubusercontent.com/u/74209121?v=4"/>|
+< a href = "(https://github.com/pinkfloyed)">[Pinki Akter]</a>
+<img src = "https://avatars.githubusercontent.com/u/74209121?v=4"/>
 
 
