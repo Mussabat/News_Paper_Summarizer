@@ -10,9 +10,9 @@
 <br>
 
 <hr>
-## 👥  <h3>Contributors<\h3>
+## 👥  <b>Contributors<\b>
 <br>
-<a href="https://github.com/Mussabat">Nafisa Tabassum</a>
+  <a href="https://github.com/Mussabat">Nafisa Tabassum</a> <b> | </b>
 <a href="https://github.com/pinkfloyed">Pinki Akter</a>
 
 
