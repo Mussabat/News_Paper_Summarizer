@@ -11,7 +11,7 @@
 
 <hr>
 ## 👥  Contributors
-< a href = "(https://github.com/pinkfloyed)">[Pinki Akter]</a>
+< a href = "https://github.com/pinkfloyed">Pinki Akter</a>
 <img src = "https://avatars.githubusercontent.com/u/74209121?v=4"/>
 
 
